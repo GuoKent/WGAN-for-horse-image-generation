@@ -16,4 +16,4 @@ target文件夹中存放了1000张生成的图片
 
 ##### 效果展示
 
-<center>![](res/1.jpg)</center>
+![](res/1.jpg)
